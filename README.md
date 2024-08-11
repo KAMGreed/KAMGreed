@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that will help me get more experience in coding and software development
 - 📫 How to reach me Email: mr.manigreen21@gmail.com
 - 😄 Pronouns: (He)
-- ⚡ Fun fact: I podcast and streamer as a hobby
+- ⚡ Fun fact: I podcast and twitch stream as a hobby
 
 <!---
 KAMGreed/KAMGreed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
