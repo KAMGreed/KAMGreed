@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mani
+- 👋 Hi, I’m Imani
 - 👀 I’m interested in Software development and game-making
 - 🌱 I’m currently learning coding and web applications
 - 💞️ I’m looking to collaborate on projects that will help me get more experience in coding and software development
